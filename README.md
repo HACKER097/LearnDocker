@@ -26,10 +26,10 @@ This is supposed to be an intro to practical use of docker and the tools it has 
 1. Create a public github repo for these tasks
 2. For each week, create `Week-N/README.md`, use headings and subheadings for each task and subtask
 3. For each subtask
-  - write the commands used
-  - relevant output/screenshots
-  - Problems faced if any
-  - Interesting observations
+  1. write the commands used
+  2. relevant output/screenshots
+  3. Problems faced if any
+  4. Interesting observations
 4. Include your final `Dockerfile`/`docker-compose.yaml` in codeblocks
 5. Include comments explaining each line, skip if explained before
 6. Include the files for each task in folders `Week-N/Task-N`
